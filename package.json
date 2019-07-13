@@ -3,5 +3,20 @@
   "version": "1.0.0",
   "main": "index.js",
   "author": "OSauceda <osfesa462@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "auto-reload-brunch": "2.7.1",
+    "babel-brunch": "7.0.1",
+    "babel-eslint": "10.0.2",
+    "babel-preset-latest": "6.24.1",
+    "babel-preset-react": "6.24.1",
+    "brunch": "2.10.17",
+    "eslint-brunch": "3.12.0",
+    "eslint-plugin-react": "7.14.2",
+    "uglify-js-brunch": "2.10.0"
+  },
+  "dependencies": {
+    "react": "16.8.6",
+    "react-dom": "16.8.6"
+  }
 }
